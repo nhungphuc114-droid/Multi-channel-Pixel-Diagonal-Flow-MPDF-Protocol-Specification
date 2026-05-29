@@ -154,6 +154,8 @@ To negotiate a Commercial Proprietary License signed via wet-ink by the Author, 
 * Phase 3 (Active): FPGA Implementation (Verilog RTL) and Multi-Channel Shunt Gating Optimization.
 * Phase 4: IETF Draft-01 Standard Standardization Submission.
 
+https://datatracker.ietf.org/submit/status/163702/71c4b5c2a68d014598133c85e9196df6/
+
 <img width="1693" height="929" alt="1" src="https://github.com/user-attachments/assets/152e8e43-d4e4-498d-bd22-c3a1071eff05" />
 <img width="1536" height="1024" alt="2" src="https://github.com/user-attachments/assets/41634f3d-3bac-4e14-a0bb-9990ce19e952" />
 <img width="1536" height="1024" alt="3" src="https://github.com/user-attachments/assets/a57fea76-bf2b-4b18-bb5a-46308c2e5d4a" />
