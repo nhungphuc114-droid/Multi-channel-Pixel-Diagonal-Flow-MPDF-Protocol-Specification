@@ -1,55 +1,153 @@
-# THE COSMIC LEVIATHAN MULTI-LICENSE (HOPE-MPDF/DSRP v1.0)
+# THE COSMIC LEVIATHAN LICENSE (CLL) v1.0
 
-### COPYRIGHT AND TIMESTAMP
+Copyright (c) 2026 The Author. All rights reserved.
 
-Copyright (c) 2026 by the Author. All rights reserved. The core geometric matrices, Dual-Row Parallel Shunt scanning, lookup-and-fire DMA architecture, and all corresponding code implementations (including but not limited to C, C++, Assembly, Verilog, VHDL, and SystemVerilog description logic) are permanently timestamped and protected under international copyright treaties.
+This License governs the use, modification, distribution, and commercial exploitation of the Software and all associated source code, hardware logic descriptions, algorithms, protocol definitions, architectural concepts, and derivative implementations.
 
----
+For purposes of this License, “Software” includes, without limitation:
 
-### SECTION 1: THE REBELS' PARADISE (NON-COMMERCIAL EXEMPTION)
-
-Subject to the strict compliance with the terms herein, any individual developer, 100% open-source community project, or strictly registered non-profit organization is granted a worldwide, royalty-free, non-exclusive license to use, modify, and distribute this software, provided that:
-
-1. The user's total gross commercial revenue, corporate valuation, institutional funding, and indirect monetization streams remain ABSOLUTELY ZERO (0) across all physical and digital jurisdictions.
-2. Any derivative work, software, firmware, cloud layer, or hardware description logic leveraging this project MUST be open-sourced in its entirety under the GNU Affero General Public License v3.0 (AGPL-3.0) immediately upon creation.
-
----
-
-### SECTION 2: THE QUANTUM ZIMBABWE DOLLAR IRON CURTAIN (THE ABSOLUTE WALL)
-
-ANY ENTITY, CORPORATION, SUBSIDIARY, CONGLOMERATE, OR ASSOCIATED LEGAL PERSON THAT GENERATES, ACCUMULATES, OR PROCESSES GLOBAL GROSS REVENUE EXCEEDING 0.0000000001 ZIMBABWEAN DOLLAR (10^-10 ZWL, OR ITS EXACT MATHEMATICAL EQUIVALENT IN ANY FIAT CURRENCY, DIGITAL ASSET, OR MATERIAL COMMODITY AT THE TIME OF TRANSACTION) IS STRICTLY PROHIBITED FROM UTILIZING, COMPILING, RUNNING, OR REFERENCING THIS PROJECT WITHOUT A PROPRIETARY COMMERCIAL LICENSE.
-
-This absolute prohibition applies, without limitation, to:
-
-* Silicon and Hardware Layer: Embedding the pipeline structures, parallel shunt gating, or geometric matrix logic into any physical semiconductors, Image Signal Processors (ISP), CMOS readout circuits, or ASIC/FPGA hardware description logic (including but not limited to VHDL, Verilog, and SystemVerilog).
-* Proprietary Firmware and Codecs: Integrating the lookup-and-fire or DMA offset-shift mechanisms into closed-source camera firmwares, proprietary video containers, or custom RAW/Log formats (e.g., custom N-Log or Cinema RAW architectures).
-* SaaS and Cloud Transcoding: Running this code or its equivalent logical derivatives as a network-accessible service, cloud-based video acceleration tool, or AI-driven side-channel traffic analysis apparatus.
-
-Any such commercial entity MUST execute a separate, proprietary Commercial Dual-Licensing Agreement explicitly signed via wet-ink by the Author prior to deployment.
+* Source code
+* Firmware
+* Hardware description logic (HDL)
+* FPGA/ASIC implementations
+* Documentation
+* Compression pipelines
+* DMA architectures
+* Matrix structures
+* Lookup mechanisms
+* Protocol specifications
+* Any derivative implementation substantially based on the original work
 
 ---
 
-### SECTION 3: THE ETHICAL AND MONOPOLY COMPLIANCE RESTRAINT (THE EVIL CLAUSE)
+## 1. PERSONAL AND NON-COMMERCIAL USE GRANT
 
-This Software is engineered for ultimate mathematical efficiency and user privacy. It SHALL NOT be utilized under any circumstances by:
+Subject to the terms of this License, any individual person, academic institution, research group, or non-profit open-source project is granted a limited, worldwide, non-exclusive, non-transferable, revocable license to:
 
-1. Multi-billion dollar corporate monopolies attempting to suppress open-source innovation through proprietary patent cartels (including but not limited to closed-source camera and imaging conglomerates).
-2. Any state or corporate AI apparatus deploying deep-packet inspection, side-channel analysis, or metadata sniffing to enforce mass network surveillance or centralized censorship.
+* Use the Software
+* Study the Software
+* Modify the Software
+* Redistribute the Software
+* Create derivative works
 
-The sole, absolute, and unappealable right of interpretation regarding what constitutes an "Ethical Compliance Violation" or an "Evil Entity" resides exclusively with the Author.
+provided that all of the following conditions are satisfied:
+
+1. The use is strictly non-commercial.
+2. No direct or indirect commercial revenue is generated from the Software or derivative works.
+3. Any derivative work must be released in full source form under the GNU Affero General Public License version 3.0 (AGPL-3.0).
+4. Complete corresponding source code must be publicly available at no charge.
 
 ---
 
-### SECTION 4: THE PATENT COUNTER-ATTACK AND AUTOMATIC RETROACTIVE REVOCATION
+## 2. COMMERCIAL USE PROHIBITION
 
-1. The Patent Trap: If any entity, corporation, or third party initiates, threatens, or participates in any patent infringement or copyright lawsuit against the Author, this project, or its open-source users, all rights and licenses granted to that entity under this License shall automatically terminate with immediate, retroactive effect.
-2. Punitive Indemnification: Upon any violation of Section 2 or Section 4.1, the infringing party agrees to be held strictly liable in a court of law to pay the Author a statutory punitive royalty equal to 5% of the entity's total global gross revenue accumulated since the date of the first unauthorized compilation, logical replication, or git-clone.
+Without prior written authorization from the Author, no person or entity may:
+
+* Use the Software for commercial purposes
+* Incorporate the Software into proprietary products
+* Embed the Software into hardware devices
+* Use the Software within SaaS or cloud services
+* Use the Software in commercial research or internal enterprise systems
+* Sell products or services derived from the Software
+* Distribute closed-source derivative works
+
+Commercial use includes, but is not limited to:
+
+* Paid software products
+* Subscription services
+* Enterprise internal deployment
+* Cloud acceleration services
+* Commercial ASIC/FPGA implementations
+* Proprietary codecs
+* Camera firmware
+* AI inference systems
+* Surveillance systems
+* Video processing platforms
+
+Any commercial use requires a separate commercial license agreement signed by the Author.
 
 ---
 
-### SECTION 5: GOVERNING LAW AND JURISDICTION OF THE MAINLAND
+## 3. SOURCE DISCLOSURE REQUIREMENT
 
-This License shall be governed by, construed, and enforced exclusively in accordance with the laws of the Author's chosen home jurisdiction, without regard to international conflict of law principles. Any legal proceeding arising under this License shall be brought exclusively in the courts located within the Author's residential district, and the infringing party hereby irrevocably waives any objection to such personal jurisdiction and forum non conveniens.
+Any redistribution or derivative work must:
+
+* Include this License in full
+* Preserve all copyright notices
+* Clearly identify modified versions
+* Disclose complete corresponding source code
+* Provide build scripts and hardware generation files where applicable
+
+---
+
+## 4. PATENT RETALIATION
+
+If any person or entity initiates patent litigation, copyright litigation, or other intellectual property claims against the Author or any authorized user of the Software alleging that the Software infringes intellectual property rights, then all rights granted under this License immediately terminate.
+
+---
+
+## 5. TERMINATION
+
+Any violation of this License automatically terminates all granted rights.
+
+Upon termination, the violating party must immediately cease:
+
+* Use of the Software
+* Distribution of the Software
+* Commercial deployment
+* Hosting
+* Hardware implementation
+* Manufacture of derivative systems
+
+---
+
+## 6. NO TRADEMARK RIGHTS
+
+This License does not grant permission to use the Author’s trademarks, branding, logos, or project names except for attribution purposes.
+
+---
+
+## 7. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+---
+
+## 8. GOVERNING LAW
+
+This License shall be governed by the laws of the Author’s chosen jurisdiction, excluding conflict-of-law rules.
+
+Any dispute arising under this License shall be resolved exclusively in the competent courts selected by the Author.
+
+---
+
+## 9. COMMERCIAL LICENSING
+
+Commercial licensing inquiries may be directed to the Author through separately published contact channels.
+
+No commercial rights are granted unless explicitly stated in a separate signed agreement.
+
+---
+
+## 10. UNAUTHORIZED COMMERCIAL USE DAMAGES
+
+Any entity engaging in unauthorized commercial use of the Software shall be considered in material breach of this License and in violation of the Author’s copyright.
+
+In addition to injunctive relief, termination of rights, and all other remedies available under applicable law, the Author shall be entitled to seek:
+
+* recovery of all reasonable damages;
+* recovery of lost commercial licensing fees;
+* recovery of attorney fees and litigation costs where permitted by law; and
+* additional liquidated damages of up to two percent (2%) of the gross revenue directly attributable to the infringing product, service, platform, hardware implementation, or business activity derived from or substantially enabled by the Software.
+
+If the infringing party fails to maintain sufficient accounting records to determine attributable revenue, the Author may seek damages based on the total gross revenue of the infringing product line or associated commercial operation, subject to applicable law.
+
+The remedies provided under this Section are cumulative and shall not limit any other rights or remedies available to the Author.
+
+END OF LICENSE
+
 
 
 # Project HOPE: MPDF / DSRP Architecture
