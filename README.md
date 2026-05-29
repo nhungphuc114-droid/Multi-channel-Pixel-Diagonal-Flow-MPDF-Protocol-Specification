@@ -146,8 +146,6 @@ If the infringing party fails to maintain sufficient accounting records to deter
 
 The remedies provided under this Section are cumulative and shall not limit any other rights or remedies available to the Author.
 
-END OF LICENSE
-
 
 
 # Project HOPE: MPDF / DSRP Architecture
