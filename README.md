@@ -51,8 +51,6 @@ The sole, absolute, and unappealable right of interpretation regarding what cons
 
 This License shall be governed by, construed, and enforced exclusively in accordance with the laws of the Author's chosen home jurisdiction, without regard to international conflict of law principles. Any legal proceeding arising under this License shall be brought exclusively in the courts located within the Author's residential district, and the infringing party hereby irrevocably waives any objection to such personal jurisdiction and forum non conveniens.
 
-[Standard AGPL-3.0 Official License Text Follows Below]
-
 
 # Project HOPE: MPDF / DSRP Architecture
 
