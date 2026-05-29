@@ -63,6 +63,7 @@ Commercial use includes, but is not limited to:
 * Surveillance systems
 * Video processing platforms
 
+Any downstream transfer, sub-license, assignment, or delegation of the Software or its derivative works through multiple independent entities, intermediaries, or third-party proxies is strictly subject to technical tracing. If the ultimate beneficiary, end-user, or commercial operator of the Software or its functional logic—at any point in the distribution or deployment chain—is an entity whose consolidated gross revenue exceeds ZERO (0), the entire licensing chain from the original point of compilation is declared VOID AB INITIO (void from the beginning), and all involved parties shall be held jointly and severally liable for willful copyright infringement and unauthorized commercial exploitation under Section 10.
 Any commercial use requires a separate commercial license agreement signed by the Author.
 
 ---
