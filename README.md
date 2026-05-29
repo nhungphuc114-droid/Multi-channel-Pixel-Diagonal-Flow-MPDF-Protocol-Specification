@@ -6,146 +6,92 @@ This License governs the use, modification, distribution, and commercial exploit
 
 For purposes of this License, “Software” includes, without limitation:
 
-* Source code
-* Firmware
-* Hardware description logic (HDL)
-* FPGA/ASIC implementations
-* Documentation
-* Compression pipelines
-* DMA architectures
-* Matrix structures
-* Lookup mechanisms
-* Protocol specifications
-* Any derivative implementation substantially based on the original work
+* Source code and firmware
+* Hardware description logic (HDL), including but not limited to VHDL, Verilog, and SystemVerilog description logic
+* FPGA/ASIC implementations and silicon readout circuits
+* Compression pipelines, Direct Memory Access (DMA) architectures, and mechanical memory offset-shift mechanisms
+* The unique algorithmic logic, mathematical matrices, and spatial-geometric topologies
+* Documentation and protocol specifications
+* Any derivative implementation or functionally equivalent structure substantially based on the original work, or derived from behavioral replication, functional reverse engineering, or clean-room documentation.
 
 ---
 
 ### 1. PERSONAL AND NON-COMMERCIAL USE GRANT
 
-Subject to the terms of this License, any individual person, academic institution, research group, or non-profit open-source project is granted a limited, worldwide, non-exclusive, non-transferable, revocable license to:
-
-* Use the Software
-* Study the Software
-* Modify the Software
-* Redistribute the Software
-* Create derivative works
-
-provided that all of the following conditions are satisfied:
+Subject to the terms of this License, any individual person, academic institution, research group, or non-profit open-source project is granted a limited, worldwide, non-exclusive, non-transferable, revocable license to use, study, modify, redistribute, and create derivative works of the Software, provided that all of the following conditions are satisfied:
 
 1. The use is strictly non-commercial.
-2. The total consolidated gross revenue, corporate valuation, institutional funding, and direct or indirect monetization streams of the User—INCLUDING the consolidated revenue of any parent company, holding company, majority shareholder, joint-venture partner, subsidiary, or enterprise under common control or affiliated through technology transfer agreements—is ABSOLUTELY ZERO (0) in any fiat currency, digital asset, or accrued material value worldwide.
+2. The total consolidated gross revenue, corporate valuation, institutional funding, and direct or indirect monetization streams of the User—INCLUDING the consolidated revenue of any parent company, holding company, majority shareholder, joint-venture partner, subsidiary, or enterprise under common control or affiliated through technology transfer, procurement, or licensing agreements—is ABSOLUTELY ZERO (0) in any fiat currency, digital asset, or accrued material value worldwide.
 3. Any derivative work must be released in full source form under the GNU Affero General Public License version 3.0 (AGPL-3.0) immediately upon creation.
-4. Complete corresponding source code must be publicly available at no charge.
----
-
-## 2. COMMERCIAL USE PROHIBITION
-
-Without prior written authorization from the Author, no person or entity may:
-
-* Use the Software for commercial purposes
-* Incorporate the Software into proprietary products
-* Embed the Software into hardware devices
-* Use the Software within SaaS or cloud services
-* Use the Software in commercial research or internal enterprise systems
-* Sell products or services derived from the Software
-* Distribute closed-source derivative works
-
-Commercial use includes, but is not limited to:
-
-* Paid software products
-* Subscription services
-* Enterprise internal deployment
-* Cloud acceleration services
-* Commercial ASIC/FPGA implementations
-* Proprietary codecs
-* Camera firmware
-* AI inference systems
-* Surveillance systems
-* Video processing platforms
-
-Any downstream transfer, sub-license, assignment, or delegation of the Software or its derivative works through multiple independent entities, intermediaries, or third-party proxies is strictly subject to technical tracing. If the ultimate beneficiary, end-user, or commercial operator of the Software or its functional logic—at any point in the distribution or deployment chain—is an entity whose consolidated gross revenue exceeds ZERO (0), the entire licensing chain from the original point of compilation is declared VOID AB INITIO (void from the beginning), and all involved parties shall be held jointly and severally liable for willful copyright infringement and unauthorized commercial exploitation under Section 10.
-Any commercial use requires a separate commercial license agreement signed by the Author.
+4. Complete corresponding source code and hardware generation files must be publicly available at no charge.
 
 ---
 
-## 3. SOURCE DISCLOSURE REQUIREMENT
+### 2. COMMERCIAL USE PROHIBITION
 
-Any redistribution or derivative work must:
+Without prior written authorization from the Author, no person or entity may use the Software for commercial purposes, incorporate the Software into proprietary products, embed the Software into hardware devices, use the Software within SaaS or cloud services, use the Software in commercial research, or sell products or services derived from the Software.
 
-* Include this License in full
-* Preserve all copyright notices
-* Clearly identify modified versions
-* Disclose complete corresponding source code
-* Provide build scripts and hardware generation files where applicable
+Commercial use includes, but is not limited to: paid software, subscription services, enterprise internal deployment, cloud acceleration services, commercial ASIC/FPGA implementations, proprietary codecs, camera firmware, AI inference systems, surveillance systems, and video processing platforms.
 
----
+Any downstream transfer, sub-license, assignment, or delegation of the Software or its derivative works through multiple independent entities, intermediaries, third-party proxies, or through manufacturing, foundry, hardware sourcing, research outsourcing, or procurement contracts is strictly subject to technical tracing. If the ultimate beneficiary, end-user, or commercial operator of the Software or its functional logic—at any point in the distribution, deployment, or supply chain—is an entity whose consolidated gross revenue exceeds ZERO (0), the entire licensing chain from the original point of compilation or access is declared VOID AB INITIO (void from the beginning). All involved parties shall be held jointly and severally liable for willful copyright infringement and unauthorized commercial exploitation under Section 10.
 
-## 4. PATENT RETALIATION
-
-If any person or entity initiates patent litigation, copyright litigation, or other intellectual property claims against the Author or any authorized user of the Software alleging that the Software infringes intellectual property rights, then all rights granted under this License immediately terminate.
+Any commercial use requires a separate commercial license agreement signed via wet-ink by the Author.
 
 ---
 
-## 5. TERMINATION
+### 3. SOURCE DISCLOSURE REQUIREMENT
 
-Any violation of this License automatically terminates all granted rights.
-
-Upon termination, the violating party must immediately cease:
-
-* Use of the Software
-* Distribution of the Software
-* Commercial deployment
-* Hosting
-* Hardware implementation
-* Manufacture of derivative systems
+Any redistribution or derivative work must include this License in full, preserve all copyright notices, clearly identify modified versions, disclose complete corresponding source code, and provide build scripts and hardware generation files where applicable.
 
 ---
 
-## 6. NO TRADEMARK RIGHTS
+### 4. PATENT RETALIATION
+
+If any person, entity, or associated legal person initiates, threatens, or participates in patent litigation, copyright litigation, or other intellectual property claims against the Author or any authorized user alleging that the Software infringes intellectual property rights, then all rights and licenses granted under this License immediately and retroactively terminate.
+
+---
+
+### 5. TERMINATION AND ASSET VOIDANCE
+
+Any violation of this License automatically terminates all granted rights. Upon termination, the violating party must immediately cease use, distribution, commercial deployment, hosting, and manufacture of derivative systems.
+
+Any derivative intellectual property, patent application, hardware layout, or functional equivalent generated in violation of this License shall automatically and instantly vest in the Author, or alternatively, become permanently unlicensable and void. It cannot be treated as a transferable or saleable asset in any bankruptcy, insolvency, receivership, corporate restructuring, or corporate liquidation proceeding, and any transfer during such proceedings shall be void ab initio.
+
+---
+
+### 6. NO TRADEMARK RIGHTS
 
 This License does not grant permission to use the Author’s trademarks, branding, logos, or project names except for attribution purposes.
 
 ---
 
-## 7. DISCLAIMER OF WARRANTY
+### 7. DISCLAIMER OF WARRANTY
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
-
-IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
 
 ---
 
-## 8. GOVERNING LAW
+### 8. GOVERNING LAW AND EXCLUSIVE JURISDICTION
 
-This License shall be governed by the laws of the Author’s chosen jurisdiction, excluding conflict-of-law rules.
-
-Any dispute arising under this License shall be resolved exclusively in the competent courts selected by the Author.
+This License shall be governed by, construed, and enforced exclusively in accordance with the laws of the Author’s chosen home jurisdiction, excluding conflict-of-law rules. Any dispute or legal proceeding arising under this License shall be resolved exclusively in the competent courts selected by the Author within their residential district. The user hereby irrevocably waives any objection to such personal jurisdiction and forum non conveniens.
 
 ---
 
-## 9. COMMERCIAL LICENSING
+### 9. COMMERCIAL LICENSING
 
-Commercial licensing inquiries may be directed to the Author through separately published contact channels.
-
-No commercial rights are granted unless explicitly stated in a separate signed agreement.
+Commercial licensing inquiries may be directed to the Author through separately published contact channels. No commercial rights are granted unless explicitly stated in a separate written agreement signed by the Author.
 
 ---
 
-## 10. UNAUTHORIZED COMMERCIAL USE DAMAGES
+### 10. UNAUTHORIZED COMMERCIAL USE DAMAGES
 
-Any entity engaging in unauthorized commercial use of the Software shall be considered in material breach of this License and in violation of the Author’s copyright.
+Any entity engaging in unauthorized commercial use of the Software shall be considered in material breach of this License and in violation of the Author’s copyright. In addition to injunctive relief, termination of rights, and all other remedies available under applicable law, the Author shall be entitled to seek:
 
-In addition to injunctive relief, termination of rights, and all other remedies available under applicable law, the Author shall be entitled to seek:
+1. Recovery of all reasonable damages and lost commercial licensing fees;
+2. Recovery of attorney fees and litigation costs where permitted by law; and
+3. Additional liquidated damages of up to two percent (2%) of the global gross revenue directly or indirectly attributable to the infringing product line, service, platform, hardware implementation, or business activity derived from or substantially enabled by the Software.
 
-* recovery of all reasonable damages;
-* recovery of lost commercial licensing fees;
-* recovery of attorney fees and litigation costs where permitted by law; and
-* additional liquidated damages of up to two percent (2%) of the gross revenue directly attributable to the infringing product, service, platform, hardware implementation, or business activity derived from or substantially enabled by the Software.
-
-If the infringing party fails to maintain sufficient accounting records to determine attributable revenue, the Author may seek damages based on the total gross revenue of the infringing product line or associated commercial operation, subject to applicable law.
-
-The remedies provided under this Section are cumulative and shall not limit any other rights or remedies available to the Author.
-
+If the infringing party fails to maintain sufficient accounting records to determine attributable revenue, the Author may seek damages based on the total global gross revenue of the infringing entity's entire associated product line or operating division, subject to applicable law. The remedies provided under this Section are cumulative and shall not limit any other rights or remedies available to the Author.
 
 
 # Project HOPE: MPDF / DSRP Architecture
