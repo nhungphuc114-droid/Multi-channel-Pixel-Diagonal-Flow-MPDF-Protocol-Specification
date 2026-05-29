@@ -20,7 +20,7 @@ For purposes of this License, “Software” includes, without limitation:
 
 ---
 
-## 1. PERSONAL AND NON-COMMERCIAL USE GRANT
+### 1. PERSONAL AND NON-COMMERCIAL USE GRANT
 
 Subject to the terms of this License, any individual person, academic institution, research group, or non-profit open-source project is granted a limited, worldwide, non-exclusive, non-transferable, revocable license to:
 
@@ -33,10 +33,9 @@ Subject to the terms of this License, any individual person, academic institutio
 provided that all of the following conditions are satisfied:
 
 1. The use is strictly non-commercial.
-2. No direct or indirect commercial revenue is generated from the Software or derivative works.
-3. Any derivative work must be released in full source form under the GNU Affero General Public License version 3.0 (AGPL-3.0).
+2. The total consolidated gross revenue, corporate valuation, institutional funding, and direct or indirect monetization streams of the User—INCLUDING the consolidated revenue of any parent company, holding company, majority shareholder, joint-venture partner, subsidiary, or enterprise under common control or affiliated through technology transfer agreements—is ABSOLUTELY ZERO (0) in any fiat currency, digital asset, or accrued material value worldwide.
+3. Any derivative work must be released in full source form under the GNU Affero General Public License version 3.0 (AGPL-3.0) immediately upon creation.
 4. Complete corresponding source code must be publicly available at no charge.
-
 ---
 
 ## 2. COMMERCIAL USE PROHIBITION
